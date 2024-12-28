@@ -3,8 +3,6 @@
   For: J A Y V E N N  H A N
 -->
 
-# Jayven
-
 **iOS Engineer • Author • Mentor**  
 30+ Published Apps · 3x Apple WWDC Scholarship
 
